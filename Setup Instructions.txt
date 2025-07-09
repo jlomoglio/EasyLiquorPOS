@@ -1,0 +1,24 @@
+EasyLiquorPOS Setup Instructions
+
+This needs to be run in development mode
+
+API Port 5000
+-----------------------
+Step 1 (inside api folder)
+Install node modules:
+   npm install
+
+Step 2
+Run server
+   node app.js
+
+
+Client Port 5173
+-----------------------
+Step 1 (inside client folder)
+Install node modules:
+   npm install
+
+Step 2
+Run server
+   node run dev

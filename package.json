@@ -1,0 +1,16 @@
+{
+    "name": "easyliquor-pos-root",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "client": "npm run dev --prefix client",
+        "api": "node api/app.js",
+        "dev": "concurrently \"npm run api\" \"npm run client\""
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}

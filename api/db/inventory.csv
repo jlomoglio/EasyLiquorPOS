@@ -1,0 +1,27 @@
+id,name,brand,category,subcategory,volume,cost,price_per_unit,total_value,date_added,vendor,notes,quantity,unit,upc_outer,upc_inner,tenant_id,total_units,restock_level
+1,Budweiser,Budweiser,Beer,Lager,12-pack,18.39,26.78,1044.42,2025-04-08,Nguyen Group,,39,pack,750409999851,4545816,1,139,10
+2,Coors Light,Coors,Beer,Lager,1L,24.78,39.61,1663.62,2025-04-08,Yang-Ellis,,42,pack,747550245019,7020167,1,42,10
+3,Heineken,Heineken,Beer,Lager,1.75L,25.6,36.27,1740.96,2025-04-08,Mcdowell-Hooper,,48,pack,598584794233,9571116,1,8,10
+4,Lagunitas IPA,Lagunitas,Beer,IPA,1L,10.05,13.1,445.4,2025-04-08,"Gill, Perez and Ramirez",,34,pack,558250313833,6802344,1,34,10
+5,Sierra Nevada,Sierra,Beer,IPA,6-pack,19.19,26.66,1253.02,2025-04-08,Melendez Inc,,47,bottle,187761919389,2236339,1,47,10
+6,Dogfish Head 60 Minute,Dogfish,Beer,IPA,6-pack,9.52,12.67,633.5,2025-04-08,Brown-Pacheco,,50,bottle,356544197299,7829593,1,50,10
+7,Robert Mondavi Cabernet,Robert,Wine,Red,1.75L,15.81,19.21,576.3,2025-04-08,"Todd, Johnston and George",,30,pack,919121132170,6007937,1,30,10
+8,Apothic Red,Apothic,Wine,Red,1.75L,17.42,23.57,226.46,2025-04-08,Harris-Price,,13,bottle,345767675298,7344112,1,13,15
+9,Josh Cellars Merlot,Josh,Wine,Red,750ml,16.8,24.91,747.3,2025-04-08,"Lynch, Thompson and Cortez",,30,case,345767675298,2981483,1,30,10
+10,Kendall-Jackson Chardonnay,Kendall-Jackson,Wine,White,1.75L,9.26,14.32,515.52,2025-04-08,Nguyen Group,,36,case,184802326047,5481177,1,36,10
+11,Barefoot Moscato,Barefoot,Wine,White,6-pack,17.71,27.2,924.8,2025-04-08,Wilson-Dominguez,,34,case,345767675298,3748664,1,34,10
+12,Cupcake Pinot Grigio,Cupcake,Wine,White,1.75L,16.35,24.77,1213.73,2025-04-08,"Todd, Johnston and George",,49,case,195660824346,4149649,1,49,10
+13,Jack Daniel's,Jack,Spirits,Whiskey,6-pack,26.7,40.1,1684.2,2025-04-08,Thornton Group,,42,case,840432311914,3457676,1,42,10
+14,Jameson,Jameson,Spirits,Whiskey,1L,28.01,42.81,899.01,2025-04-08,Mcdowell-Hooper,,21,bottle,744221223173,1695833,1,21,10
+15,Maker's Mark,Maker's,Spirits,Whiskey,1.75L,5.86,9.09,181.8,2025-04-08,"Snyder, Mason and Raymond",,20,case,345767675298,3272409,1,20,10
+16,Tito's Handmade,Tito's,Spirits,Vodka,1.75L,15.29,22.26,979.44,2025-04-08,"Fowler, Bennett and Burns",,44,case,468963844542,4348229,1,44,10
+17,Smirnoff,Smirnoff,Spirits,Vodka,1L,28.77,37.15,1634.6,2025-04-08,"Mccoy, Wade and Obrien",,44,case,293336443156,3685167,1,44,10
+18,Grey Goose,Grey,Spirits,Vodka,24-pack,25.98,40.28,1570.92,2025-04-08,"Keller, Smith and Hanson",,39,pack,152161839142,3457676,1,39,10
+19,Bacardi Superior,Bacardi,Spirits,Rum,24-pack,10.13,12.66,493.74,2025-04-08,Mcdowell-Hooper,,39,case,307343941058,2256816,1,39,10
+20,Captain Morgan,Captain,Spirits,Rum,24-pack,27.29,41.81,752.58,2025-04-08,"Howell, Gould and Murphy",,18,pack,392928588998,3464240,1,18,10
+21,Malibu Coconut,Malibu,Spirits,Rum,1.75L,12.86,16.94,694.54,2025-04-08,Yang-Ellis,,41,case,971620733611,5792014,1,41,10
+22,Random Whiskey,TestBrand,Spirits,Whiskey,750ml,12.5,18.99,37.98,2025-04-08,Thornton Group,,3,Bottle,307343941058,3457676,1,3,10
+23,Overflow Beer,TestBrand,Beer,Lager,6pk,4,8.99,359.6,2025-04-08,Mcdowell-Hooper,,90,6 Pack,345767675298,3457676,1,90,10
+24,Ghost Tequila,TestBrand,Spirits,Tequila,750ml,13,21.99,130,2025-04-08,"Keller, Smith and Hanson",,10,Bottle,345767675298,3457676,1,10,5
+25,Slow Wine,TestBrand,Wine,Red,750ml,8,13.99,167.88,2025-04-08,Mcdowell-Hooper,,12,Bottle,345767675298,3457676,1,12,4
+26,Zero Sales Rum,TestBrand,Spirits,Rum,750ml,9,14.99,224.85,2025-04-08,Brown-Pacheco,,15,Bottle,345767675298,3457676,1,15,5

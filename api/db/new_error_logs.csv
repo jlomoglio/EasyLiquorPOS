@@ -1,0 +1,151 @@
+id,code,path,message,stack,timestamp,user_id,tenant_id
+1,ERR-20250417-DB-DUPLICATE_ENTRY,/api/duplicate-entry,DB error occurred during duplicate entry operation,"Error: DB error occurred during duplicate entry operation
+    at /api/duplicate-entry (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 09:15:00,,5
+2,ERR-20250417-API-UPDATE_VENDOR,/api/update-vendor,API error occurred during update vendor operation,"Error: API error occurred during update vendor operation
+    at /api/update-vendor (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 09:30:00,,5
+3,ERR-20250417-SERVER-DISK_FULL,/api/disk-full,SERVER error occurred during disk full operation,"Error: SERVER error occurred during disk full operation
+    at /api/disk-full (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 09:45:00,1012.0,2
+4,ERR-20250417-DB-READ_ONLY_MODE,/api/read-only-mode,DB error occurred during read only mode operation,"Error: DB error occurred during read only mode operation
+    at /api/read-only-mode (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 10:00:00,,2
+5,ERR-20250417-SERVER-CRASH,/api/crash,SERVER error occurred during crash operation,"Error: SERVER error occurred during crash operation
+    at /api/crash (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 10:15:00,,5
+6,ERR-20250417-API-SAVE_ORDER,/api/save-order,API error occurred during save order operation,"Error: API error occurred during save order operation
+    at /api/save-order (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 10:30:00,1000.0,1
+7,ERR-20250417-AUTH-INVALID_TOKEN,/api/invalid-token,AUTH error occurred during invalid token operation,"Error: AUTH error occurred during invalid token operation
+    at /api/invalid-token (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 10:45:00,,2
+8,ERR-20250417-DB-MISSING_INDEX,/api/missing-index,DB error occurred during missing index operation,"Error: DB error occurred during missing index operation
+    at /api/missing-index (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 11:00:00,,4
+9,ERR-20250417-DB-DUPLICATE_ENTRY,/api/duplicate-entry,DB error occurred during duplicate entry operation,"Error: DB error occurred during duplicate entry operation
+    at /api/duplicate-entry (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 11:15:00,,2
+10,ERR-20250417-AUTH-INVALID_TOKEN,/api/invalid-token,AUTH error occurred during invalid token operation,"Error: AUTH error occurred during invalid token operation
+    at /api/invalid-token (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 11:30:00,,2
+11,ERR-20250417-UI-UNHANDLED_EVENT,/api/unhandled-event,UI error occurred during unhandled event operation,"Error: UI error occurred during unhandled event operation
+    at /api/unhandled-event (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 11:45:00,1020.0,5
+12,ERR-20250417-API-GET_INVENTORY,/api/get-inventory,API error occurred during get inventory operation,"Error: API error occurred during get inventory operation
+    at /api/get-inventory (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 12:00:00,,3
+13,ERR-20250417-DB-MISSING_INDEX,/api/missing-index,DB error occurred during missing index operation,"Error: DB error occurred during missing index operation
+    at /api/missing-index (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 12:15:00,,1
+14,ERR-20250417-SERVER-HIGH_CPU,/api/high-cpu,SERVER error occurred during high cpu operation,"Error: SERVER error occurred during high cpu operation
+    at /api/high-cpu (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 12:30:00,1002.0,5
+15,ERR-20250417-UI-UNHANDLED_EVENT,/api/unhandled-event,UI error occurred during unhandled event operation,"Error: UI error occurred during unhandled event operation
+    at /api/unhandled-event (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 12:45:00,1007.0,3
+16,ERR-20250417-UI-UNHANDLED_EVENT,/api/unhandled-event,UI error occurred during unhandled event operation,"Error: UI error occurred during unhandled event operation
+    at /api/unhandled-event (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 13:00:00,1014.0,4
+17,ERR-20250417-DB-READ_ONLY_MODE,/api/read-only-mode,DB error occurred during read only mode operation,"Error: DB error occurred during read only mode operation
+    at /api/read-only-mode (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 13:15:00,,5
+18,ERR-20250417-SERVER-CRASH,/api/crash,SERVER error occurred during crash operation,"Error: SERVER error occurred during crash operation
+    at /api/crash (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 13:30:00,,2
+19,ERR-20250417-UI-INPUT_VALIDATION_FAIL,/api/input-validation-fail,UI error occurred during input validation fail operation,"Error: UI error occurred during input validation fail operation
+    at /api/input-validation-fail (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 13:45:00,,3
+20,ERR-20250417-DB-READ_ONLY_MODE,/api/read-only-mode,DB error occurred during read only mode operation,"Error: DB error occurred during read only mode operation
+    at /api/read-only-mode (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 14:00:00,1001.0,3
+21,ERR-20250417-API-SAVE_ORDER,/api/save-order,API error occurred during save order operation,"Error: API error occurred during save order operation
+    at /api/save-order (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 14:15:00,,2
+22,ERR-20250417-AUTH-USER_LOCKED,/api/user-locked,AUTH error occurred during user locked operation,"Error: AUTH error occurred during user locked operation
+    at /api/user-locked (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 14:30:00,,4
+23,ERR-20250417-DB-CONNECTION_TIMEOUT,/api/connection-timeout,DB error occurred during connection timeout operation,"Error: DB error occurred during connection timeout operation
+    at /api/connection-timeout (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 14:45:00,,5
+24,ERR-20250417-DB-DUPLICATE_ENTRY,/api/duplicate-entry,DB error occurred during duplicate entry operation,"Error: DB error occurred during duplicate entry operation
+    at /api/duplicate-entry (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 15:00:00,1008.0,4
+25,ERR-20250417-DB-MISSING_INDEX,/api/missing-index,DB error occurred during missing index operation,"Error: DB error occurred during missing index operation
+    at /api/missing-index (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 15:15:00,1017.0,3
+26,ERR-20250417-DB-MISSING_INDEX,/api/missing-index,DB error occurred during missing index operation,"Error: DB error occurred during missing index operation
+    at /api/missing-index (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 15:30:00,1005.0,3
+27,ERR-20250417-UI-MISSING_ELEMENT,/api/missing-element,UI error occurred during missing element operation,"Error: UI error occurred during missing element operation
+    at /api/missing-element (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 15:45:00,,4
+28,ERR-20250417-UI-MISSING_ELEMENT,/api/missing-element,UI error occurred during missing element operation,"Error: UI error occurred during missing element operation
+    at /api/missing-element (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 16:00:00,,3
+29,ERR-20250417-API-FETCH_USERS,/api/fetch-users,API error occurred during fetch users operation,"Error: API error occurred during fetch users operation
+    at /api/fetch-users (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 16:15:00,,1
+30,ERR-20250417-UI-BUTTON_CLICK_ERROR,/api/button-click-error,UI error occurred during button click error operation,"Error: UI error occurred during button click error operation
+    at /api/button-click-error (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 16:30:00,,1
+31,ERR-20250417-SERVER-DISK_FULL,/api/disk-full,SERVER error occurred during disk full operation,"Error: SERVER error occurred during disk full operation
+    at /api/disk-full (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 16:45:00,1009.0,4
+32,ERR-20250417-UI-MISSING_ELEMENT,/api/missing-element,UI error occurred during missing element operation,"Error: UI error occurred during missing element operation
+    at /api/missing-element (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 17:00:00,,2
+33,ERR-20250417-UI-COMPONENT_LOAD_FAIL,/api/component-load-fail,UI error occurred during component load fail operation,"Error: UI error occurred during component load fail operation
+    at /api/component-load-fail (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 17:15:00,,3
+34,ERR-20250417-API-SAVE_ORDER,/api/save-order,API error occurred during save order operation,"Error: API error occurred during save order operation
+    at /api/save-order (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 17:30:00,1020.0,5
+35,ERR-20250417-API-LOGIN_FAILED,/api/login-failed,API error occurred during login failed operation,"Error: API error occurred during login failed operation
+    at /api/login-failed (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 17:45:00,,1
+36,ERR-20250417-SERVER-SERVICE_UNAVAILABLE,/api/service-unavailable,SERVER error occurred during service unavailable operation,"Error: SERVER error occurred during service unavailable operation
+    at /api/service-unavailable (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 18:00:00,,2
+37,ERR-20250417-API-UPDATE_VENDOR,/api/update-vendor,API error occurred during update vendor operation,"Error: API error occurred during update vendor operation
+    at /api/update-vendor (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 18:15:00,1013.0,5
+38,ERR-20250417-API-LOGIN_FAILED,/api/login-failed,API error occurred during login failed operation,"Error: API error occurred during login failed operation
+    at /api/login-failed (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 18:30:00,1004.0,1
+39,ERR-20250417-API-GET_INVENTORY,/api/get-inventory,API error occurred during get inventory operation,"Error: API error occurred during get inventory operation
+    at /api/get-inventory (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 18:45:00,1018.0,1
+40,ERR-20250417-API-GET_INVENTORY,/api/get-inventory,API error occurred during get inventory operation,"Error: API error occurred during get inventory operation
+    at /api/get-inventory (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 19:00:00,1017.0,3
+41,ERR-20250417-AUTH-USER_LOCKED,/api/user-locked,AUTH error occurred during user locked operation,"Error: AUTH error occurred during user locked operation
+    at /api/user-locked (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 19:15:00,,4
+42,ERR-20250417-DB-TRANSACTION_WRITE_FAIL,/api/transaction-write-fail,DB error occurred during transaction write fail operation,"Error: DB error occurred during transaction write fail operation
+    at /api/transaction-write-fail (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 19:30:00,1003.0,5
+43,ERR-20250417-SERVER-DISK_FULL,/api/disk-full,SERVER error occurred during disk full operation,"Error: SERVER error occurred during disk full operation
+    at /api/disk-full (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 19:45:00,1016.0,2
+44,ERR-20250417-AUTH-INVALID_TOKEN,/api/invalid-token,AUTH error occurred during invalid token operation,"Error: AUTH error occurred during invalid token operation
+    at /api/invalid-token (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 20:00:00,,2
+45,ERR-20250417-DB-TRANSACTION_WRITE_FAIL,/api/transaction-write-fail,DB error occurred during transaction write fail operation,"Error: DB error occurred during transaction write fail operation
+    at /api/transaction-write-fail (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 20:15:00,1008.0,5
+46,ERR-20250417-AUTH-UNAUTHORIZED_ACCESS,/api/unauthorized-access,AUTH error occurred during unauthorized access operation,"Error: AUTH error occurred during unauthorized access operation
+    at /api/unauthorized-access (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 20:30:00,1019.0,1
+47,ERR-20250417-SERVER-DISK_FULL,/api/disk-full,SERVER error occurred during disk full operation,"Error: SERVER error occurred during disk full operation
+    at /api/disk-full (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 20:45:00,,3
+48,ERR-20250417-DB-CONNECTION_TIMEOUT,/api/connection-timeout,DB error occurred during connection timeout operation,"Error: DB error occurred during connection timeout operation
+    at /api/connection-timeout (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 21:00:00,1005.0,5
+49,ERR-20250417-UI-UNHANDLED_EVENT,/api/unhandled-event,UI error occurred during unhandled event operation,"Error: UI error occurred during unhandled event operation
+    at /api/unhandled-event (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 21:15:00,1007.0,5
+50,ERR-20250417-API-LOGIN_FAILED,/api/login-failed,API error occurred during login failed operation,"Error: API error occurred during login failed operation
+    at /api/login-failed (server.js:42:13)
+    at processRequest (handler.js:27:5)",2025-04-17 21:30:00,,3

@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+:root {
+  font-family: system-ui, Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.StripeElement {
+  font-family: 'system-ui', 'sans-serif' !important;
+}
+
+
+/* BLUE */
+/* Scrollbar track (background) */
+::-webkit-scrollbar {
+  width: 15px; /* Adjust width */
+}
+
+/* Scrollbar thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+  background-color: #c5cacf; /* Change to any color */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* Scrollbar track when scrolling */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light gray track */
+}
+
+
+
+img {
+  user-select: none; /* Prevents selection */
+  pointer-events: none; /* Prevents interaction (optional) */
+  -webkit-user-drag: none; /* Prevents dragging in WebKit browsers */
+}
+
+
+input {
+  user-select: none;
+}
+
+#select::after {
+    content: '\f078'; /* Unicode caret */
+    font-size: 12px;
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900;
+    color: #8a8989;
+    position: absolute;
+    right: 33px; /* Moves the caret */
+    top: 75px;
+    transform: translateY(-50%);
+    pointer-events: none; /* Prevents interaction */
+}
+
+select {
+  appearance: "none"; 
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  color: #5a5a5a;
+  user-select: none;
+}
+
+
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+
+  #printable-po, #printable-po * {
+    visibility: visible;
+  }
+
+  #printable-po {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: white;
+  }
+
+  #printable-receipt, #printable-receipt * {
+    visibility: visible;
+  }
+
+  #printable-receipt {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: white;
+  }
+}
